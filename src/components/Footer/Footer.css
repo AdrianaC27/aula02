@@ -1,0 +1,11 @@
+.Footer-menu{
+    background-color: rgb(145, 255, 0);
+    display:flex;
+    justify-content: space-between;
+    bottom: 0%;
+    padding: 8px;
+}
+.img-logo{
+    width: 8%;
+
+}

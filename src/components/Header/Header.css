@@ -1,0 +1,9 @@
+.header-menu{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+.img-logo{
+    width: 8%;
+}
